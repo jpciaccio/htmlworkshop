@@ -1,92 +1,56 @@
 {
   "basics": {
-    "name": "David Loder",
-    "role": "IT Consultant",
+    "name": "John Paul Ciaccio",
+    "role": "Cyber Security Student",
     "location": "Philadelphia, PA",
-    "email": "davidloder92@temple.edu",
-    "phone": "+1(999) 999-9999",
-    "profilePic": "/img/profilepic.jpeg"
+    "email": "john.paul.ciaccio@temple.edu",
+    "phone": "+1(504) 239 7557",
+    "profilePic": "/img/profilewebsite.jpg"
   },
   "skills": [
     {
-      "name": "React JS",
+      "name": "Digital Audio Workstations",
       "level": 90
     },
     {
       "name": "Java",
-      "level": 60
+      "level": 30
     },
     {
       "name": "Python",
       "level": 50
     },
     {
-      "name": "MongoDb",
-      "level": 70
+      "name": "TouchDesigner",
+      "level": 10
     }
   ],
   "languages": [
     {
       "name": "English",
       "level": 100
-    },
-    {
-      "name": "Jibberish",
-      "level": 100
     }
   ],
   "workExperience": [
     {
-      "position": "Teaching Assistant Python",
-      "company": "Temple University",
-      "startDate": "August 2024",
-      "endDate": "Current",
-      "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
-    },
-    {
-      "position": "Consumer Electronic Agent",
-      "company": "BestBuy / Geek Squad",
-      "startDate": "Nov 2021",
-      "endDate": "Current",
-      "description": "Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
-    },
-    {
-      "position": "Mobile App Developer",
-      "company": "Lenegan Plumbing & Heating",
-      "startDate": "Mar 2021",
-      "endDate": "Nov 2021",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "position": "Concrete Worker",
+      "company": "Carlo Ditta Inc.",
+      "startDate": "May 2021",
+      "endDate": "August 2024",
+      "description": "Maintained safe working environment: cleaning up spills, guiding trucks through yard, safely operating heavy machinery"
     }
   ],
   "education": [
     {
       "school": "Temple University",
-      "degree": "Information Science & Technology",
-      "startDate": "January 2020",
-      "endDate": "May 2026",
-      "description": "Information Science & Technology"
-    },
-    {
-      "school": "Camden County College",
-      "degree": "Liberal Arts",
-      "startDate": "2012",
-      "endDate": "2016",
-      "description": "Liberal Arts"
-    },
-    {
-      "school": "Atlantic Cape Community College",
-      "degree": "Liberal Arts",
-      "startDate": "2010",
-      "endDate": "2013",
-      "description": "Liberal Arts"
+      "degree": "Cyber Security",
+      "startDate": "August 2024",
+      "endDate": "May 2027",
+      "description": "Cyber Security BA"
     }
   ],
   "socialMedia": {
-    "facebook": "",
-    "instagram": "",
-    "snapchat": "",
-    "pinterest-p": "",
-    "twitter": "",
-    "linkedin": ""
+    "instagram": "jp_bagel",
+    "linkedin": "www.linkedin.com/john-paul-ciaccio"
   }
 }
